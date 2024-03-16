@@ -8,11 +8,11 @@ public class Program
     }
     public static double srednia(int[] ints)
     {
-        double srednia = 0;
+        double srednia3 = 0;
         for(int i = 0; i < ints.lenght; i++)
         {
             srednia += ints[i]/ints.lenght;
         }
-        return srednia;
+        return srednia3;
     }
 }
