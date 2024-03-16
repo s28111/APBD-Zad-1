@@ -11,8 +11,8 @@ public class Program
         double srednia = 0;
         for(int i = 0; i < ints.lenght; i++)
         {
-            srednia += ints[i]/ints.lenght;
+            srednia2 += ints[i]/ints.lenght;
         }
-        return srednia;
+        return srednia2;
     }
 }
