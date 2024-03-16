@@ -5,7 +5,7 @@ public class Program
         int[] ints = new int[]{1,2,3,4,5};
         double srednia = srednia(ints);
         System.out.println(srednia);
-        System.out.println("123");
+        System.out.println("12345");
     }
     public static double srednia(int[] ints)
     {
