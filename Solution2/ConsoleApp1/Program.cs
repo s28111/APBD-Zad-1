@@ -7,3 +7,8 @@ static double Srednia(int[] ints)
 {
     return ints.Average();
 }
+
+static int Max(int[] ints)
+{
+    return ints.Max();
+}
