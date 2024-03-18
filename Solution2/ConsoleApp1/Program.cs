@@ -2,3 +2,8 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("123");
+
+static double Srednia(int[] ints)
+{
+    return ints.Average();
+}
